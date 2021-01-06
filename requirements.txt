@@ -18,7 +18,7 @@ pudb==2013.3.6
 django-allauth==0.13.0
 -e git+https://github.com/Nivl/django-bootstrap-form.git@aeedb1c8a1f05b10baebca8b8450874b8076576e#egg=django-bootstrap-form
 -e git+https://github.com/duointeractive/sea-cucumber.git@5bde28cb545a0433f4a54689caf0358fc0560760#egg=sea-cucumber
-Pillow==2.2.1
+Pillow==8.1.0
 fs==0.4.0
 django-avatar==2.0
 factory-boy==2.2.1
